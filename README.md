@@ -17,16 +17,16 @@ Automates the setup process for Open Steam Tools (open source on GitHub).
 
 Functions:
 
-* **Install Tool**
+* **Install Tool** =
   Copies required `.dll` files into the Steam folder
 
-* **Uninstall Tool**
+* **Uninstall Tool** =
   Removes installed `.dll` files from Steam folder
 
-* **Restart Steam**
+* **Restart Steam** =
   Closes Steam process and launches it again
 
-* **Exit Steam**
+* **Exit Steam** =
   Closes all Steam processes
 
 <img width="852" alt="Install Tool" src="https://github.com/user-attachments/assets/c81772dc-4c0e-4951-b63d-737453bcf898">
@@ -37,14 +37,14 @@ Functions:
 
 Functions:
 
-* **Drop ZIP**
+* **Drop ZIP** =
   Extract ZIP and copy `.lua` files into: `steam/config/lua`
 
 
-* **Game List**
+* **Game List** =
   Shows imported `.lua` entries
 
-* **Delete All Game**
+* **Delete All Game** =
   Removes all imported `.lua` files
 
 <img width="819" alt="Library Tool" src="https://github.com/user-attachments/assets/7953dc02-3474-4fc8-a262-7b2f5361f65d">
@@ -55,7 +55,7 @@ Functions:
 
 Functions:
 
-* **Drop ZIP**
+* **Drop ZIP** =
 
 Extract ZIP and copy `.manifest` files into: `steam/depotcache`
 
