@@ -8,7 +8,7 @@ Automates the setup process for Open Steam Tools Usage (open source on GitHub).
 * Completely free to use
 * Requires `.lua` and `.manifest` files to add game in Library.
 * If you want to support development, you can purchase from [Every1Play]([url](https://lynk.id/every1play)), Bonus In-Game DLC!
-
+* No Need to Turn Off / Add Exclusion Windows Defender!
 ---
 
 # Features
