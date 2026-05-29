@@ -10,7 +10,11 @@ Automates the setup process for Open Steam Tools Usage (open source on GitHub).
 * If you want to support development, you can purchase from [Every1Play](https://lynk.id/every1play), Bonus In-Game DLC!
 * No Need to Turn Off / Add Exclusion Windows Defender!
 ---
-
+# Installation
+* Go to [Release](https://github.com/Every1Play/Every1Play-Manager/releases) Page.
+* Download the .exe File.
+* Install as Usual.
+---
 # Features
 
 ## Install Tool
