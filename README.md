@@ -1,5 +1,5 @@
 # Every1Play Manager
-
+`Credits to Open Steam Tool on Github for the .dll, i only made the UI / Application.`
 ## What is Every1Play Manager?
 
 Automates the setup process for Open Steam Tools Usage (open source on GitHub).
@@ -7,7 +7,7 @@ Automates the setup process for Open Steam Tools Usage (open source on GitHub).
 * UI/UX built using code generated with ChatGPT
 * Completely free to use
 * Requires `.lua` and `.manifest` files to add game in Library.
-* If you want to support development, you can purchase from Every1Play, Bonus in-game DLC!
+* If you want to support development, you can purchase from [Every1Play]([url](https://lynk.id/every1play)), Bonus In-Game DLC!
 
 ---
 
