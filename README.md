@@ -1,4 +1,4 @@
-Code Entirely Made with ChatGPT, using winforms. 
+Code Entirely Built with ChatGPT, using Winforms. 
 
 1. Install Tool
 <img width="852" height="609" alt="image" src="https://github.com/user-attachments/assets/c81772dc-4c0e-4951-b63d-737453bcf898" />
