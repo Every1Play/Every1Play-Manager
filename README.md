@@ -2,7 +2,7 @@
 
 ## What is Every1Play Manager?
 
-Automates the setup process for Open Steam Tools (open source on GitHub).
+Automates the setup process for Open Steam Tools Usage (open source on GitHub).
 
 * UI/UX built using code generated with ChatGPT
 * Completely free to use
