@@ -1,9 +1,7 @@
 What is Every1Play Manager?
 
 Automate the whole process for Open Steam Tools(open source on github).
-
 The UIUX, CopyPaste Logic, Completely made by Code Generated from ChatGPT.
-
 This Application is completly free, you just need the .lua and .manifest file, you can buy it from me to support developing this app even more!
 
 BUTTON FUNCTION
