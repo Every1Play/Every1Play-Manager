@@ -1,12 +1,6 @@
 # Every1Play Manager
 ## What is Every1Play Manager?
-
-Automates the setup process for New Steam Tools (open source on GitHub).
-
-* UI/UX built using code generated with ChatGPT
-* Completely free to use
-* Requires `.lua` and `.manifest` files to add game in Library.
-* If you want to support development, you can purchase from [Every1Play](https://lynk.id/every1play), Bonus In-Game DLC!
+* Automates the Setup process on Adding Games for the New Steam Tools (open source on GitHub).
 ---
 # Installation
 * Go to [Release](https://github.com/Every1Play/Every1Play-Manager/releases) Page.
@@ -20,16 +14,16 @@ Automates the setup process for New Steam Tools (open source on GitHub).
 Functions:
 
 * **Install Tool** =
-  Copies required `.dll` files into the Steam folder
+  Import required files
 
 * **Uninstall Tool** =
-  Removes installed `.dll` files from Steam folder
+  Removes installed files
 
 * **Restart Steam** =
   Closes Steam process and launches it again
 
 * **Exit Steam** =
-  Closes all Steam processes
+  Closes all Steam process
 
 <img width="852" alt="Install Tool" src="https://github.com/user-attachments/assets/c81772dc-4c0e-4951-b63d-737453bcf898">
 
@@ -40,7 +34,7 @@ Functions:
 Functions:
 
 * **Drop ZIP** =
-  Extract ZIP and copy `.lua` files into: `steam/config/lua`
+  Extract ZIP and copy `.lua` files
 
 
 * **Game List** =
@@ -59,7 +53,7 @@ Functions:
 
 * **Drop ZIP** =
 
-Extract ZIP and copy `.manifest` files into: `steam/depotcache`
+Extract ZIP and copy `.manifest` files
 
 Used for temporary download/cache handling.
 
