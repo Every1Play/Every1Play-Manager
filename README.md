@@ -11,12 +11,11 @@ It provides a centralized system for:
 * Automatic game delivery from R2 Storage 
 
 All features are managed through a simple launcher interface.
-
 ---
 
 # Installation
 
-1. Go to the GitHub [Releases]([url](https://github.com/Every1Play/Every1Play-Manager/releases)) page.
+1. Go to the GitHub [Releases](https://github.com/Every1Play/Every1Play-Manager/releases) page.
 2. Download the latest version.
 3. Run the installer.
 4. Launch Every1Play Manager.
