@@ -1,132 +1,94 @@
 # What is Every1Play Manager ?
----
-Every1Play Manager is an account-based launcher designed to simplify game library management and tool installation.
 
-It provides a centralized system for:
+Every1Play Manager provides a fast and simple experience for managing imported games into your Steam Library.
 
-* Tool installation and maintenance
-* Game library imports
-* Online Fix list
-* Cloud-based account management using Cloudflare Worker
-* Automatic game delivery from R2 Storage 
+Built with **WPF + Cloudflare**.
 
-All features are managed through a simple launcher interface.
 ---
 
 # Installation
 
-1. Go to the GitHub [Releases](https://github.com/Every1Play/Every1Play-Manager/releases) page.
-2. Download the latest version.
-3. Run the installer.
-4. Launch Every1Play Manager.
-5. Enter your Account ID.
-
+1. Download **`Every1Play.Manager.zip`** from latest release.
+2. Extract the ZIP file.
+3. Run **`Every1Play Manager.exe`**.
+   
 ---
 
 # Features
 
-## Account Login System based on Cloudflare Worker
+## 🔐 Account System
 
-Functions:
+- Account System hosted with Cloudflare
+- VIP Membership System
 
-  * Secure account validation
-  * HWID slot system
-  * Downloads available games directly from the cloud
-  * Automatically updates account information
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b4ee8b75-083e-492e-a6fb-22a873e8f38e" />
+<img width="500" alt="Login" src="https://github.com/user-attachments/assets/b1b53e5a-bfaf-4fb9-a5ae-b056c127ff62" />
+
+---
+
+## 🛠 Main Setup
+
+- Manage required file with a single click.
+
+<img width="500" alt="Install Tool" src="https://github.com/user-attachments/assets/fafdcfcb-0c0d-4098-86a1-b3d2abfde2a5" />
+
+---
+
+## 🎮 Game Library
+
+- Manage your owned games directly from the launcher.
+
+
+<img width="500" alt="Library" src="https://github.com/user-attachments/assets/ce64c414-2c09-4df7-a7c8-72b0456331da" />
+
+---
+
+## 🌐 Game Fix
+
+- List of Supported Games, Singplayer, Multiplayer and Protected Games.
+
+<img width="500" alt="Online Fix" src="https://github.com/user-attachments/assets/712d87a5-4f45-4a9e-b748-8af37857c582" />
 
 
 ---
 
-## Install Tool
+## 📖 Error Guide
 
-Functions:
-
-* **Install Main Tool**
-
-  * Installs required files automatically, file used is the New Steam Tools, open source, not the old one
-
-* **Uninstall Main Tool**
-
-  * Removes installed files
-
-* **Restart Steam**
-
-  * Closes Steam and launches it again
-
-* **Exit Steam**
-
-  * Closes all Steam processes
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a6aa2ff0-1cfe-4eed-a1c9-591140fa4602" />
-
+- Troubleshooting guides for the most common issues. Guides are cloud-based and can be updated without requiring a launcher update.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/00cbf600-8bdf-4b4a-ad61-b5897103ab5f" />
 
 ---
 
-## Games Library
+# System Requirements
 
-Functions:
-
-* **Owned Games**
-
-  * Displays games assigned to your account
-
-* **Import Game**
-
-  * Downloads and imports games automatically, daily limit of 10.
-
-* **Installed Games**
-
-  * List of Imported Games to Steam Library
-
-* **Fix Download Error**
-
-  * Repair 'No Internet Connection' when downloading games
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/e3342633-2a3c-4dae-8ca2-affd446203e9" />
+- Windows 10 
+- Windows 11
+- Steam installed
+- Internet connection
 
 ---
 
-## Online Fix
+# Highlights / Features
 
-Functions:
-
-* **Singleplayer Games**
-
-  * List of tested and working singleplayer titles
-
-* **Multiplayer Collection**
-
-  * List of tested and working multiplayer titles
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/64300744-80ab-47e8-8ef6-cd102ec052c8" />
-
----
-
-## Application Features
-
-* Tested Scanning with Windows Defender, 0 Virus Detected.
-* Modern account-based launcher
-* Tested and compatible on Windows 10 & 11 64-bit
-* 32-bit and 64-bit compatible
-* Self-contained installation (no .NET runtime required)
-* Automatic install detection
-* Cloudflare-powered backend
-* Fast game list loading
-* Secure account validation
+- Cloudflare-powered backend
+- WPF desktop application
+- Self-contained deployment
+- Launcher updates detection
+- Automatic Steam Folder Path detection
 
 ---
 
 # Notes
 
-* Games are imported into your Steam Library.
-* Games are not permanently added to your Steam account.
-* An active Every1Play account is required.
+- Games are imported into your local Steam Library.
+- Games are **NOT** permanently added to your Steam account.
+- An active Every1Play account is required.
 
 ---
 
 # Support
 
-Found a bug, issue, or have a suggestion?
+Found a bug or have a suggestion?
 
-Feedback and improvement ideas are always welcome.
+Please open an Issue or contact Every1Play team.
 
-"Pay Less, Play More"
-— Every1Play
+"Pay Less, Play More" — Every1Play
